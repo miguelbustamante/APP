@@ -1,0 +1,1 @@
+("" == document.location.hash || "#" == document.location.hash) && (document.location.hash = "ui");
