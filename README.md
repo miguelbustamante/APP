@@ -1,2 +1,2 @@
 # APP
-app
+v0.1 - Dise;o de la app, #responsiva
